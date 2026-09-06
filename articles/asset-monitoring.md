@@ -1,6 +1,6 @@
 # Asset Monitoring: How to Build a System People Actually Watch
 
-*By Arsalan, Project Manager and IoT Expert, INNERLUXES. First published 6 September 2026 on [innerluxes.dev](https://innerluxes.dev/blog/asset-monitoring). That page is the canonical version; this file is the Markdown source.*
+*By Arsalan, Project Manager and IoT Expert, INNERLUXES. First published 6 September 2026 on [innerluxes.dev](https://innerluxes.dev/asset-management/asset-monitoring). That page is the canonical version; this file is the Markdown source.*
 
 Asset monitoring explained by an IoT project manager who ships these systems: what to instrument, how to get data off the asset, alerts nobody learns to ignore, dashboards, IT asset monitoring, and what it takes to run.
 
