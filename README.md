@@ -13,6 +13,7 @@ read, diffed and reused without a browser.
 | [What we check before a smart contract goes to mainnet](articles/smart-contract-checks-before-mainnet.md) | INNERLUXES blockchain engineering | https://innerluxes.dev/blockchain/smart-contracts-development |
 | [Cloud Call Center Pricing: What You Actually Pay For](articles/cloud-call-center-pricing.md) | Asif, Customer Success Director | https://innerluxes.dev/cloud/cloud-call-center-pricing |
 | [Telemarketing Software: What It Does and What to Check](articles/telemarketing-software.md) | Qasim Habib, Presales Director | https://innerluxes.dev/crm/call-center/telemarketing-software |
+| [IT Audit Services: What They Cover and How to Prepare](articles/it-audit-services.md) | Junaid Khan, Lead Business Analyst, R&D and Presales Consultant | https://innerluxes.dev/it-operations/information-technology-audit-services |
 
 Related repositories: [fixed-price-delivery-kit](https://github.com/INNERLUXES/fixed-price-delivery-kit),
 [scope-to-plan](https://github.com/INNERLUXES/scope-to-plan), [medtest-traceability](https://github.com/INNERLUXES/medtest-traceability), [it-estate-check](https://github.com/INNERLUXES/it-estate-check).
