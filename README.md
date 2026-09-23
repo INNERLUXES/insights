@@ -14,6 +14,7 @@ read, diffed and reused without a browser.
 | [Cloud Call Center Pricing: What You Actually Pay For](articles/cloud-call-center-pricing.md) | Asif, Customer Success Director | https://innerluxes.dev/cloud/cloud-call-center-pricing |
 | [Telemarketing Software: What It Does and What to Check](articles/telemarketing-software.md) | Qasim Habib, Presales Director | https://innerluxes.dev/crm/call-center/telemarketing-software |
 | [IT Audit Services: What They Cover and How to Prepare](articles/it-audit-services.md) | Junaid Khan, Lead Business Analyst, R&D and Presales Consultant | https://innerluxes.dev/it-operations/information-technology-audit-services |
+| [Benefits of CRM in Higher Education: What It Does and What to Check](articles/benefits-of-crm-in-higher-education.md) | Asif, Customer Success Director | https://innerluxes.dev/crm/benefits-of-crm-in-higher-education |
 
 Related repositories: [fixed-price-delivery-kit](https://github.com/INNERLUXES/fixed-price-delivery-kit),
 [scope-to-plan](https://github.com/INNERLUXES/scope-to-plan), [medtest-traceability](https://github.com/INNERLUXES/medtest-traceability), [it-estate-check](https://github.com/INNERLUXES/it-estate-check).
