@@ -12,6 +12,7 @@ read, diffed and reused without a browser.
 | [Tauri or Electron: what we check before we recommend Tauri](articles/tauri-or-electron.md) | INNERLUXES desktop engineering | https://innerluxes.dev/browser-development/tauri |
 | [What we check before a smart contract goes to mainnet](articles/smart-contract-checks-before-mainnet.md) | INNERLUXES blockchain engineering | https://innerluxes.dev/blockchain/smart-contracts-development |
 | [Cloud Call Center Pricing: What You Actually Pay For](articles/cloud-call-center-pricing.md) | Asif, Customer Success Director | https://innerluxes.dev/cloud/cloud-call-center-pricing |
+| [CRM Use Cases: What a CRM Is Used For, by Team](articles/crm-use-cases.md) | Asif, Customer Success Director | https://innerluxes.dev/crm/crm-use-cases |
 | [Telemarketing Software: What It Does and What to Check](articles/telemarketing-software.md) | Qasim Habib, Presales Director | https://innerluxes.dev/crm/call-center/telemarketing-software |
 | [IT Audit Services: What They Cover and How to Prepare](articles/it-audit-services.md) | Junaid Khan, Lead Business Analyst, R&D and Presales Consultant | https://innerluxes.dev/it-operations/information-technology-audit-services |
 | [Benefits of CRM in Higher Education: What It Does and What to Check](articles/benefits-of-crm-in-higher-education.md) | Asif, Customer Success Director | https://innerluxes.dev/crm/benefits-of-crm-in-higher-education |
