@@ -14,6 +14,7 @@ read, diffed and reused without a browser.
 | [Cloud Call Center Pricing: What You Actually Pay For](articles/cloud-call-center-pricing.md) | Asif, Customer Success Director | https://innerluxes.dev/cloud/cloud-call-center-pricing |
 | [CRM Use Cases: What a CRM Is Used For, by Team](articles/crm-use-cases.md) | Asif, Customer Success Director | https://innerluxes.dev/crm/crm-use-cases |
 | [CRM for Outlook: What It Means and What to Check First](articles/crm-for-outlook.md) | Asif, Customer Success Director | https://innerluxes.dev/crm/crm-for-outlook |
+| [All-in-One Marketing Software: What to Check First](articles/all-in-one-marketing-software.md) | Asif, Customer Success Director | https://innerluxes.dev/crm/all-in-one-marketing-software |
 | [Telemarketing Software: What It Does and What to Check](articles/telemarketing-software.md) | Qasim Habib, Presales Director | https://innerluxes.dev/crm/call-center/telemarketing-software |
 | [IT Audit Services: What They Cover and How to Prepare](articles/it-audit-services.md) | Junaid Khan, Lead Business Analyst, R&D and Presales Consultant | https://innerluxes.dev/it-operations/information-technology-audit-services |
 | [Benefits of CRM in Higher Education: What It Does and What to Check](articles/benefits-of-crm-in-higher-education.md) | Asif, Customer Success Director | https://innerluxes.dev/crm/benefits-of-crm-in-higher-education |
